@@ -2,8 +2,8 @@
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [owner@holeinonestudios.org](mailto:owner@holeinonestudios.org)
-
-[YouTube](https://www.youtube.com/channel/UCrMuHuxcCrDXHuxLeUWzBUA?sub_confirmation=1)
+- Website [benbowles.me](https://www.benbowles.me)
+- [YouTube](https://www.youtube.com/channel/UCrMuHuxcCrDXHuxLeUWzBUA?sub_confirmation=1)
 
 <!--
 **HoleInOneGolfer/HoleInOneGolfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
