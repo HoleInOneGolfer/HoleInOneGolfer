@@ -29,5 +29,7 @@
 [NodeJS]()
 
 ![HoleInOneGolfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=holeinonegolfer&show_icons=true&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/holeinonegolfer/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Holeinonegolfer)](https://git.io/streak-stats)
